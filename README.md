@@ -39,11 +39,11 @@ Engineering*, 22(4–5), 491–502.
 
 ## Key Results
 
-![PID](plots/PID.png)
-![LQR](plots/LQR.png)
-![Linear MPC, theta-constrained](plots/mpc.png)
-![Nonlinear MPC](plots/nmpc.png)
-![EKF](plots/ekf.png)
+![PID](PID.png)
+![LQR](LQR.png)
+![Linear MPC, theta-constrained](mpc.png)
+![Nonlinear MPC](nmpc.png)
+![EKF](ekf.png)
 
 | | PID | LQR | Linear MPC | Nonlinear MPC |
 |---|---|---|---|---|
